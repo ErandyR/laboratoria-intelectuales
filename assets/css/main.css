@@ -85,3 +85,9 @@ p {
 .nanys{
   background-color: #7CFAE3;
 }
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 50px;
+}
