@@ -1,3 +1,6 @@
+body{
+	background: #e0dedb;
+}
 .menu, .portada {
 	background-color: #FCCE09;
 }
@@ -41,14 +44,19 @@ li{
 	list-style: none;
 	margin-left: 250px;
 }
+.contenedor{
+	margin-left: 250px;
+}
 
 .tarjeta {
   display: inline-block;
   height: 550px;
   width: 450px;
   padding: 50px;
-  border: 2px solid gray;
-  margin-left: 20px;
+  margin-left: 35px;
+  margin-top: 35px;
+  background-color: white;
+
 }
 
 .color {
