@@ -2,6 +2,13 @@
 
 }
 
+li{
+	display: inline-block;
+	padding: 20px;
+	list-style: none;
+	margin-left: 300px;
+}
+
 .tarjeta {
   display: inline-block;
   height: 550px;
